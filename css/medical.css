@@ -1,0 +1,14 @@
+html{
+    height:100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    background-color: #E1E2E1;
+}
+
+footer{
+    margin-top: auto;
+}
